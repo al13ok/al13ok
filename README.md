@@ -8,7 +8,7 @@
 - 🎓 I’m currently a Student at Chandigarh University  
 - 🌱 I’m currently learning **Deep Learning, Machine Learning, RESTful APIs**  
 - 💬 Ask me about anything **[here](#)**  
-- ⚡ Fun fact: *Game of Thrones Night's Watch cloaks are made from Ikea rugs*  
+- ⚡ Fun fact: **  
 
 ---
 
